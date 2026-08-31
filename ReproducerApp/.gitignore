@@ -1,3 +1,5 @@
+!.gitignore
+package-lock.json
 # OSX
 #
 .DS_Store
